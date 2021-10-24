@@ -1,0 +1,26 @@
+.hobbies{
+  width: 25%;
+  height: 25%;
+}
+.nav {
+  position: absolute;
+  padding: 3px;
+  float: left;
+  margin-left: 2%;
+  margin-top: 10px;
+  font-family: 'Alfa Slab One', cursive;
+  color: #66bfbf;
+}
+a:visited{
+  color:green;
+}
+ul {
+  width: auto;
+  float: right;
+  margin-top: 8px;
+}
+
+li {
+  display: inline-block;
+  padding: 15px 30px;
+}
